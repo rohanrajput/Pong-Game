@@ -1,0 +1,1 @@
+/usr/bin/g++-7  -std=c++17   CMakeFiles/SliderGame.dir/src/main.cpp.o CMakeFiles/SliderGame.dir/src/game.cpp.o CMakeFiles/SliderGame.dir/src/controller.cpp.o CMakeFiles/SliderGame.dir/src/renderer.cpp.o CMakeFiles/SliderGame.dir/src/slider.cpp.o  -o SliderGame -L/usr/lib/x86_64-linux-gnu  -lSDL2 
